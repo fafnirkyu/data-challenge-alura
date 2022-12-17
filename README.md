@@ -14,9 +14,9 @@ Prever valor de imóveis com base em dados da cidade do Rio de Janeiro
 
 Detalhes do projeto:
 
-Esse projeto foca na utilização do PySpark para a análise dos dados de imóveis localizados em alguns bairros do Rio de Janeiro. A imobiliaria está com dificuldades na venda e aluguel desses imóveis devido a seu métodos de precificação e recomendação.
+O projeto foca na utilização do Pyspark como ferramenta para análise de dados de imóveis. A imobiliária InsightPlaces, situada na cidade do Rio de Janeiro, está enfrentando dificuldades para alugar e vender imóveis. Em uma pesquisa de como empresas semelhantes operam no mercado, a InsightPlaces percebeu que esse problema pode estar relacionado aos valores dos imóveis e às recomendações que faz. 
 
-O desafio foi separado em 3 etapas:
+O desafio foi separado em 3 etapas divididas em 4 semanas:
 
 [Semana 1](https://github.com/fafnirkyu/data-challenge-alura/tree/Semana-1) - Transformação e limpeza dos dados brutos utilizando pyspark;
 
